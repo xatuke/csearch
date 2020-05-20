@@ -6,5 +6,5 @@ fi
 cd /usr/local/bin/
 git clone 'https://github.com/crowded-geek/csearch'
 cd csearch
-pip install pyperclip
+pip3 install pyperclip
 cd
