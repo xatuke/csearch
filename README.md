@@ -2,9 +2,9 @@
 Basically csearch will help you search whatever you have on your clipboard using the keyboard shortcut you want.
 
 ## Prerequisites
-- Python 3
-- pip3
-- wget
+- [Python 3](https://www.python.org/downloads/)
+- [pip3](https://pip.pypa.io/en/stable/)
+- [wget](https://www.gnu.org/software/wget/)
 - Linux Operating System
 
 ## Setup
