@@ -3,6 +3,7 @@ Basically csearch will help you search whatever you have on your clipboard using
 
 ## Prerequisites
 - Python 3
+- pip3
 - Linux Operating System
 
 ## Setup
