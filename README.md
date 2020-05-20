@@ -21,6 +21,12 @@ sudo ./setup.sh
   Command: /usr/bin/python3 /usr/local/bin/csearch/copysearch.py
   Shortcut: <whatever you like> or Alt+s
   ```
+  ### If you want to use DuckDuckGo as your search engine:
+  ```
+  Name: <whatever you like>
+  Command: /usr/bin/python3 /usr/local/bin/csearch/copysearch.py ddg
+  Shortcut: <whatever you like> or Alt+s
+  ```
 
 ### Why run the script as root?
 > It needs to create it's folder in `/usr/local/bin` to install itself.
