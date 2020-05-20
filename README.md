@@ -4,6 +4,7 @@ Basically csearch will help you search whatever you have on your clipboard using
 ## Prerequisites
 - Python 3
 - pip3
+- wget
 - Linux Operating System
 
 ## Setup
