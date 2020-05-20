@@ -1,5 +1,5 @@
 # csearch
-Basically csearch will help you search whatever you have on your clipboard.
+Basically csearch will help you search whatever you have on your clipboard using the keyboard shortcut you want.
 
 ## Prerequisites
 - Python 3
