@@ -8,8 +8,7 @@ Basically csearch will help you search whatever you have on your clipboard using
 
 ## Setup
 ```
-git clone https://github.com/crowded-geek/csearch
-cd csearch
+wget https://raw.githubusercontent.com/crowded-geek/csearch/master/setup.sh
 chmod +x setup.sh
 sudo ./setup.sh
 ```
